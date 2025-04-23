@@ -1,0 +1,63 @@
+a
+{
+    text-decoration: none;
+    color: black;
+}
+input
+{
+    width: 100%;
+    padding: 0 10px;
+    border-radius: 20px;
+}
+.image
+{
+    position: relative;
+}
+.a
+{
+    position: absolute;
+    height: 50px; width: 150px;
+    background: wheat;
+    left: -50px; top: -10px;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+.b
+{
+    position: absolute;
+    height: 50px; width: 150px;
+    background: wheat;
+    right:-70px; top: 70px;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+.c
+{
+    position: absolute;
+    height: 50px; width: 150px;
+    background: wheat;
+    bottom: -35px; left: 200px;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 10px;
+}
+.btn
+{
+    background: blueviolet;
+    color: white;
+}
+.btn:hover
+{
+    background: orange;
+}
+ul
+{
+    list-style: none;
+    padding: 10px 0;
+}
+li
+{
+    padding: 5px 0;
+}
